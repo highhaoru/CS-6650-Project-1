@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4b050b4-23e0-4aa2-82a6-e14d6c11c21e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1-6650.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Log4j2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SocketReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TcpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UdpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2LO6DVwClEY2r5iw2tyhRXjufo3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/IdeaProjects/Project1-6650/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Project1-6650\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TcpClientSock">
+    <configuration name="Log4j2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Log4j2Test" />
+      <module name="Project1-6650" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TcpClient" />
+      <module name="Project1-6650" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 3200" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TcpServer" />
+      <module name="Project1-6650" />
+      <option name="PROGRAM_PARAMETERS" value="3200" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpClient" />
+      <module name="Project1-6650" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 3200" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpServer" />
+      <module name="Project1-6650" />
+      <option name="PROGRAM_PARAMETERS" value="3200" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Log4j2Test" />
+      <item itemvalue="Application.UdpClientSock" />
+      <item itemvalue="Application.UdpServerSock" />
+      <item itemvalue="Application.TcpClientSock" />
+      <item itemvalue="Application.TcpServerSock" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TcpClientSock" />
+        <item itemvalue="Application.TcpServerSock" />
+        <item itemvalue="Application.UdpClientSock" />
+        <item itemvalue="Application.UdpServerSock" />
+        <item itemvalue="Application.Log4j2Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4b050b4-23e0-4aa2-82a6-e14d6c11c21e" name="Changes" comment="" />
+      <created>1675729663568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675729663568</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
