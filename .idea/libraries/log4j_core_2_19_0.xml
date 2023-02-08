@@ -1,7 +1,6 @@
 <component name="libraryTable">
   <library name="log4j-core-2.19.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/apache-log4j-2.19.0-bin/log4j-core-2.19.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/log4j-bin/log4j-core-2.19.0.jar!/" />
     </CLASSES>
     <JAVADOC />
