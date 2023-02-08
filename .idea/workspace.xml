@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b050b4-23e0-4aa2-82a6-e14d6c11c21e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project1-6650.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Log4j2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SocketReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TcpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TcpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UdpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UdpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests.properties" afterDir="false" />
-    </list>
+    <list default="true" id="b4b050b4-23e0-4aa2-82a6-e14d6c11c21e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
